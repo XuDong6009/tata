@@ -1,2 +1,7 @@
 hello
 morning
+goog
+afternoon
+noodles
+rice
+crown
